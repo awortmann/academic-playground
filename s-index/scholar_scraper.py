@@ -255,7 +255,6 @@ def print_undercited_publications(undercited_pubs):
 # Example usage
 if __name__ == "__main__":
     url = "https://scholar.google.de/citations?user=6ImtercAAAAJ&hl=de&oi=ao"
-
     
     print(f"Scraping Google Scholar profile: {url}\n")
     
